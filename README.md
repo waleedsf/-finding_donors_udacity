@@ -1,5 +1,5 @@
 
-### This is project two from my machine learning with tensorflow - nanodegree
+### This is project one from my machine learning with tensorflow - nanodegree
 
 
 ## Project Overview
